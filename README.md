@@ -1,7 +1,7 @@
 # XrayMix-Offical
 XrayMix implementation and SANDet source code
  
-## 目录
+## Catalogs
 
 - [Start](#Start)
 - [Document catalog description](#Document catalog description)
@@ -11,7 +11,7 @@ XrayMix implementation and SANDet source code
 
 ### Start
 
-所需要的环境
+Required environment
 ```sh
 pytorch>=1.12.1
 mmcv=2.1.0
@@ -48,7 +48,7 @@ mail: 202320116452@mail.scut.edu.cn
 
 ### License
 
-该项目签署了MIT 授权许可，详情请参阅 [LICENSE.txt](https://github.com/shaojintian/Best_README_template/blob/master/LICENSE.txt)
+The project is licensed under the MIT License, for more information see [LICENSE.txt]()
 
 ### Acknowledge
 
