@@ -20,7 +20,7 @@ mmengine=0.10.1
 
 
 ```sh
-[git clone https://github.com/shaojintian/Best_README_template.git](https://github.com/lilitao0517/XrayMix-Offical.git)
+git clone https://github.com/lilitao0517/XrayMix-Offical.git
 ```
 
 ### Document
