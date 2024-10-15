@@ -1,7 +1,7 @@
-# XrayMix-Offical
+# 🤯XrayMix-Offical
 XrayMix implementation and SANDet source code
  
-## Catalogs
+## 🤯Catalogs
 
 - [Start](#Start)
 - [Document](#Document)
@@ -9,7 +9,7 @@ XrayMix implementation and SANDet source code
 - [Contributor](#Contributor)
 - [Acknowledge](#Acknowledge)
 
-### Start
+### 🤯Start
 
 Required environment
 ```sh
@@ -23,34 +23,34 @@ mmengine=0.10.1
 git clone https://github.com/lilitao0517/XrayMix-Offical.git
 ```
 
-### Document
+### 🤠Document
 eg:
 
 ```
 To be updated
 ```
 
-### Frameworks
+### 🤠Frameworks
 
 - [mmdetection](https://github.com/open-mmlab/mmdetection)
 
 
-### Contributor
+### 🤠Contributor
 
 Li Litao(SCUT)
 
 
-### Author
+### 🤠Author
 
 mail: 202320116452@mail.scut.edu.cn
 
  *If you have questions that are not answered in a timely manner, you can contact us by email at 202320116452@mail.scut.edu.cn*
 
-### License
+### 🤠License
 
 The project is licensed under the MIT License, for more information see [LICENSE.txt]()
 
-### Acknowledge
+### 🤠Acknowledge
 
 
 - [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
