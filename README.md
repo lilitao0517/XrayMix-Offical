@@ -4,7 +4,7 @@ XrayMix implementation and SANDet source code
 ## Catalogs
 
 - [Start](#Start)
-- [Document catalog description](#Document catalog description)
+- [Document](#Document)
 - [Frameworks](#Frameworks)
 - [Contributor](#Contributor)
 - [Acknowledge](#Acknowledge)
@@ -23,7 +23,7 @@ mmengine=0.10.1
 git clone https://github.com/shaojintian/Best_README_template.git
 ```
 
-### Document catalog description
+### Document
 eg:
 
 ```
