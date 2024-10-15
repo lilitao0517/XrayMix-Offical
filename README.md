@@ -1,5 +1,5 @@
 # 🤯XrayMix-Offical
-👏 XrayMix implementation and SANDet source code
+👏 XrayMix implementation and SANDet source code<br>
 **[2024/10/15]** Updated Readme.md, source code will be published soon!
  
 ## 🤯Catalogs
