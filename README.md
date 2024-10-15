@@ -25,8 +25,10 @@ git clone https://github.com/lilitao0517/XrayMix-Offical.git
 ```
 
 XrayMix processes two random labeled images:
+```sh
 python generate_mixup.py
 ```
+
 You need to put the two images into the VOC folder in batches, the xml files need to correspond and set the output image size by yourself.
 We have integrated XrayMix into the mmdet framework, and using XrayMix for training is simply a matter of using the Mixup data augmentation, as described in our published config file and in **mmdetection/mmdet/datasets/transforms/transforms.py** and in the **mmdetection/mmdet/datasets/transforms/XrayMix.py**.
 
