@@ -14,9 +14,9 @@
 
 Required environment
 ```sh
-pytorch>=1.12.1
-mmcv=2.1.0
-mmengine=0.10.1
+pytorch >= 1.12.1
+mmcv == 2.1.0
+mmengine == 0.10.1
 ```
 
 
