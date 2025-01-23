@@ -1,6 +1,6 @@
 # 🤯XrayMix-Offical
 👏 XrayMix implementation and SANDet source code<br>
-**[2024/10/15]** Updated Readme.md, source code will be published soon! Due to domain security issues, we will open the source code and the paper after it has been accepted.
+**[2024/10/15]** Updated Readme.md, source code will be published soon!
  
 ## 🤯Catalogs
 
